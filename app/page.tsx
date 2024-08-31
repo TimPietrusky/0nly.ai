@@ -1,3 +1,3 @@
 export default function Chat() {
-  return <main>Hello, world!</main>;
+  return <main>0NLY AI</main>;
 }
