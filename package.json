@@ -1,5 +1,9 @@
 {
-  "name": "test-application",
+  "name": "0nly-ai",
+  "author": {
+    "name": "Tim Pietrusky",
+    "email": "timpietrusky@gmail.com"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
